@@ -1,3 +1,11 @@
+# HEAD
+
+* Fork modernization: migrated from CommonJS to TypeScript
+* Replaced Babel/browserify build system with esbuild
+* Switched from mocha to jest testing framework
+* Removed deprecated Travis CI configuration
+* Added `.gitignore` file
+
 # 2.0.0 (2017-03-31)
 
 * Change the list element's class from `task-list` to `contains-task-list` to

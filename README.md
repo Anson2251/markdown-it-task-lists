@@ -1,5 +1,7 @@
 # markdown-it-task-lists
 
+This is a forked version of [markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists) but migrated to TypeScript.
+
 A [markdown-it](https://www.npmjs.com/package/markdown-it) plugin to create GitHub-style [task lists](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/revin/markdown-it-task-lists.svg)](https://greenkeeper.io/)
